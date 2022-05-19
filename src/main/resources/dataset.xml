@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc:collection xmlns="http://fit.nsu.ru/ds"
+               xmlns:dc="http://purl.org/dc/elements/1.1/"
+               xmlns:sys="http://fit.nsu.ru/sys/1.0/">
+    <dc:metadata>
+        <dc:identifier>9780141936789</dc:identifier>
+        <dc:title>A History of Venice</dc:title>
+        <dc:creator>John Julius Norwich</dc:creator>
+        <dc:language>en</dc:language>
+        <dc:date>2003-07-03</dc:date>
+        <dc:type>text</dc:type>
+        <dc:publisher>Penguin Books Limited</dc:publisher>
+        <dc:description>
+            A History of Venice tells the story of this most remarkable of cities from its founding in the fifth
+            century, through its unrivalled status for over a thousand years as one of the world's busiest and most
+            powerful city states, until its fall at the hands of Napoleon in 1797. Rich in fascinating historical
+            detail, populated by extraordinary characters and packed with a wealth of incident and intrigue, this is a
+            brilliant testament to a great city - and a great and gripping read.
+        </dc:description>
+    </dc:metadata>
+
+    <dc:metadata>
+        <dc:identifier>9780415190732</dc:identifier>
+        <dc:title>The German Hansa</dc:title>
+        <dc:creator>Philippe Dollinger</dc:creator>
+        <dc:language>en</dc:language>
+        <dc:date>1999</dc:date>
+        <dc:type>text</dc:type>
+        <dc:publisher>Routledge</dc:publisher>
+        <dc:description>
+            English translation of French classic from 1964.
+        </dc:description>
+    </dc:metadata>
+
+    <dc:metadata>
+        <dc:identifier>9780486421117</dc:identifier>
+        <dc:title>Slave Ships and Slaving</dc:title>
+        <dc:creator>George Francis Dow</dc:creator>
+        <dc:language>en</dc:language>
+        <dc:date>2002</dc:date>
+        <dc:type>text</dc:type>
+        <dc:publisher>Dover Publications</dc:publisher>
+        <dc:description>
+            The long, grim story of the slave trade is a tragic historical narrative. This darkest and most heartless
+            era in African-American history saw millions of Africans kidnapped and sold into bondage in the West Indies,
+            the American colonies, and later, the United States.
+        </dc:description>
+    </dc:metadata>
+
+    <dc:metadata>
+        <dc:identifier>9781000290776</dc:identifier>
+        <dc:title>The Transformation of Britain, 1830–1939</dc:title>
+        <dc:creator>G. E. Mingay</dc:creator>
+        <dc:language>en</dc:language>
+        <dc:date>2021-06-23</dc:date>
+        <dc:type>text</dc:type>
+        <dc:publisher>Taylor & Francis</dc:publisher>
+        <dc:description>
+            First published in 1986, The Transformation of Britain, 1830–1939 delves into the significant changes that
+            occurred across the landscape and society of Britain during this prominent age of reform and innovation.
+        </dc:description>
+    </dc:metadata>
+
+    <dc:metadata>
+        <dc:identifier>9780750916127</dc:identifier>
+        <dc:title>Rural Life in Victorian England</dc:title>
+        <dc:creator>G. E. Mingay</dc:creator>
+        <dc:language>en</dc:language>
+        <dc:date>1998</dc:date>
+        <dc:type>text</dc:type>
+        <dc:publisher>Sutton</dc:publisher>
+        <dc:description>
+            During Victoria's reign the English countryside saw more rapid and far-reaching changes than had been
+            experienced in perhaps all the preceding centuries. These changes were the result of increasing
+            industrialization, the move toward urban settlement, greater reliance on imported foodstuffs and the
+            mass-production of fabric and clothing.
+        </dc:description>
+    </dc:metadata>
+</dc:collection>
+
+
+

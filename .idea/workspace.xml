@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b68beced-2663-402c-a928-cc16b07193cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/CommitResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/CreateStorageDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/CreateUpdateDatabaseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/CreateUpdateRepositoryDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/DatabaseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/DiagnosticDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/InitResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/RecordDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/RepositoryDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/ResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/ScanRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/ScanResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/SearchRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/SearchResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/SearchType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/StorageDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/SuccessDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/TermDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/UpdateRecordAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/UpdateRecordDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/UpdateStorageDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repository/DatabaseClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repository/DatabaseClientImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repository/RepositoryClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repository/RepositoryClientImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repository/StorageClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repository/StorageClientImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/HttpRequestBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/dataset.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ZebraApiTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29052vcP5oQgDsYO3EKiSFDUti4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dto" />
+      <recent name="repository" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ZebraApiTest.repositoryIntegrationTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="zebra-client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZebraApiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zebra-client" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ZebraApiTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZebraApiTest.checkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zebra-client" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ZebraApiTest" />
+      <option name="METHOD_NAME" value="checkTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZebraApiTest.repositoryCleaning" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zebra-client" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ZebraApiTest" />
+      <option name="METHOD_NAME" value="repositoryCleaning" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZebraApiTest.repositoryIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zebra-client" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ZebraApiTest" />
+      <option name="METHOD_NAME" value="repositoryIntegrationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ZebraApiTest.repositoryIntegrationTest" />
+        <item itemvalue="JUnit.ZebraApiTest.repositoryCleaning" />
+        <item itemvalue="JUnit.ZebraApiTest.checkTest" />
+        <item itemvalue="JUnit.ZebraApiTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b68beced-2663-402c-a928-cc16b07193cb" name="Changes" comment="" />
+      <created>1652236968545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652236968545</updated>
+      <workItem from="1652236972326" duration="17614000" />
+      <workItem from="1652325612915" duration="2563000" />
+      <workItem from="1652349550850" duration="44000" />
+      <workItem from="1652600905447" duration="19483000" />
+      <workItem from="1652936669729" duration="9056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
