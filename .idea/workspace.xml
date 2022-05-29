@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b68beced-2663-402c-a928-cc16b07193cb" name="Changes" comment="data migration tooling for zebra api">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/migration/Formatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/migration/MigrationExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/migration/MigrationExecutorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/migration/MigrationManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/migration/TimestampStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/migration/TimestampStorageImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dataset2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dto/RecordDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dto/RecordDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/repository/DatabaseClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/DatabaseClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/repository/DatabaseClientImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repository/DatabaseClientImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/dataset.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/dataset1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ZebraApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ZebraApiTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="b68beced-2663-402c-a928-cc16b07193cb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,13 +49,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.ZebraApiTest.repositoryIntegrationTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="zebra-client" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
       <setting name="bbPath" value="" />
@@ -104,6 +81,13 @@
       <setting name="customPortFile" value="" />
       <setting name="fixLineNumbers" value="false" />
       <method v="2" />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="zebra-client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="ZebraApiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="zebra-client" />
@@ -176,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652947241147</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="data migration tooling for zebra api">
+      <created>1653811630154</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653811630154</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
