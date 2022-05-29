@@ -2,6 +2,7 @@ package repository;
 
 import dto.*;
 
+import java.time.Instant;
 import java.util.Collection;
 
 public interface DatabaseClient {
@@ -25,6 +26,10 @@ public interface DatabaseClient {
     ResponseDTO<ResponseDTO<SearchResponseDTO>> search(String id, SearchRequestDTO searchRequestDTO);
 
     ResponseDTO<ResponseDTO<ScanResponseDTO>> scan(String id, ScanRequestDTO scanRequestDTO);
+
+    ResponseDTO<ResponseDTO<ScanResponseDTO>> findAllWithCreatedDateIsAfter(String id, Instant date);
+
+    ResponseDTO<ResponseDTO<ScanResponseDTO>> findAllWithModifiedDateIsAfter(String id, Instant date);
 
     ResponseDTO<Integer> count();
 }

@@ -7,7 +7,8 @@
         <dc:title>A History of Venice</dc:title>
         <dc:creator>John Julius Norwich</dc:creator>
         <dc:language>en</dc:language>
-        <dc:date>2003-07-03</dc:date>
+        <sys:created-at>1982-04-12T00:00:00</sys:created-at>
+        <sys:updated-at>2022-04-26T00:00:00</sys:updated-at>
         <dc:type>text</dc:type>
         <dc:publisher>Penguin Books Limited</dc:publisher>
         <dc:description>
@@ -24,7 +25,8 @@
         <dc:title>The German Hansa</dc:title>
         <dc:creator>Philippe Dollinger</dc:creator>
         <dc:language>en</dc:language>
-        <dc:date>1999</dc:date>
+        <sys:created-at>1970-01-01T00:00:00</sys:created-at>
+        <sys:updated-at>1999-01-01T00:00:00</sys:updated-at>
         <dc:type>text</dc:type>
         <dc:publisher>Routledge</dc:publisher>
         <dc:description>
@@ -37,43 +39,14 @@
         <dc:title>Slave Ships and Slaving</dc:title>
         <dc:creator>George Francis Dow</dc:creator>
         <dc:language>en</dc:language>
-        <dc:date>2002</dc:date>
+        <sys:created-at>1970-01-01T00:00:00</sys:created-at>
+        <sys:updated-at>2014-02-01T00:00:00</sys:updated-at>
         <dc:type>text</dc:type>
         <dc:publisher>Dover Publications</dc:publisher>
         <dc:description>
             The long, grim story of the slave trade is a tragic historical narrative. This darkest and most heartless
             era in African-American history saw millions of Africans kidnapped and sold into bondage in the West Indies,
             the American colonies, and later, the United States.
-        </dc:description>
-    </dc:metadata>
-
-    <dc:metadata>
-        <dc:identifier>9781000290776</dc:identifier>
-        <dc:title>The Transformation of Britain, 1830–1939</dc:title>
-        <dc:creator>G. E. Mingay</dc:creator>
-        <dc:language>en</dc:language>
-        <dc:date>2021-06-23</dc:date>
-        <dc:type>text</dc:type>
-        <dc:publisher>Taylor & Francis</dc:publisher>
-        <dc:description>
-            First published in 1986, The Transformation of Britain, 1830–1939 delves into the significant changes that
-            occurred across the landscape and society of Britain during this prominent age of reform and innovation.
-        </dc:description>
-    </dc:metadata>
-
-    <dc:metadata>
-        <dc:identifier>9780750916127</dc:identifier>
-        <dc:title>Rural Life in Victorian England</dc:title>
-        <dc:creator>G. E. Mingay</dc:creator>
-        <dc:language>en</dc:language>
-        <dc:date>1998</dc:date>
-        <dc:type>text</dc:type>
-        <dc:publisher>Sutton</dc:publisher>
-        <dc:description>
-            During Victoria's reign the English countryside saw more rapid and far-reaching changes than had been
-            experienced in perhaps all the preceding centuries. These changes were the result of increasing
-            industrialization, the move toward urban settlement, greater reliance on imported foodstuffs and the
-            mass-production of fabric and clothing.
         </dc:description>
     </dc:metadata>
 </dc:collection>

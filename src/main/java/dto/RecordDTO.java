@@ -5,6 +5,6 @@ public record RecordDTO(
         String recordPacking,
         String recordIdentifier,
         String recordSchema,
-        Object recordData
+        String recordData
 ) {
 }

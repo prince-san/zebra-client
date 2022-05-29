@@ -3,6 +3,7 @@ package repository;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import dto.*;
+import migration.Formatter;
 import org.apache.http.client.utils.URIBuilder;
 import util.HttpRequestBuilder;
 
@@ -10,6 +11,7 @@ import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
+import java.time.Instant;
 import java.util.Collection;
 
 public class DatabaseClientImpl implements DatabaseClient {
@@ -18,6 +20,7 @@ public class DatabaseClientImpl implements DatabaseClient {
     private final ObjectMapper objectMapper = new ObjectMapper();
     private final String DEFAULT_API_URI;
     private final String DATABASE_API_URI = "databases/";
+    private final Formatter formatter = Formatter.INSTANCE;
 
     public DatabaseClientImpl(String default_api_uri) {
         DEFAULT_API_URI = default_api_uri;
@@ -175,6 +178,39 @@ public class DatabaseClientImpl implements DatabaseClient {
             e.printStackTrace();
         }
         return null;
+    }
+
+    @Override
+    public ResponseDTO<ResponseDTO<ScanResponseDTO>> findAllWithCreatedDateIsAfter(String id, Instant date) {
+        try {
+            var formattedDate = formatter.formatInstant(date);
+            return scan(id, new ScanRequestDTO(
+                    SearchType.PQF,
+                    "@1=1011 @6=3 " + formattedDate,
+                    null,
+                    null
+            ));
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        return new ResponseDTO<>(false, null);
+    }
+
+    @Override
+    public ResponseDTO<ResponseDTO<ScanResponseDTO>> findAllWithModifiedDateIsAfter(String id, Instant date) {
+        try {
+            var formattedDate = formatter.formatInstant(date);
+            return scan(id, new ScanRequestDTO(
+                    SearchType.PQF,
+                    "@1=1012 @6=3 " + formattedDate,
+                    null,
+                    null
+            ));
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return new ResponseDTO<>(false, null);
     }
 
     @Override

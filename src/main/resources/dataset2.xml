@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc:collection xmlns="http://fit.nsu.ru/ds"
+               xmlns:dc="http://purl.org/dc/elements/1.1/"
+               xmlns:sys="http://fit.nsu.ru/sys/1.0/">
+    <dc:metadata>
+        <dc:identifier>9781000290776</dc:identifier>
+        <dc:title>The Transformation of Britain, 1830–1939</dc:title>
+        <dc:creator>G. E. Mingay</dc:creator>
+        <dc:language>en</dc:language>
+        <sys:created-at>1986-01-01T00:00:00</sys:created-at>
+        <sys:updated-at>2021-06-23T00:00:00</sys:updated-at>
+        <dc:type>text</dc:type>
+        <dc:publisher>Taylor & Francis</dc:publisher>
+        <dc:description>
+            First published in 1986, The Transformation of Britain, 1830–1939 delves into the significant changes that
+            occurred across the landscape and society of Britain during this prominent age of reform and innovation.
+        </dc:description>
+    </dc:metadata>
+
+    <dc:metadata>
+        <dc:identifier>9780750916127</dc:identifier>
+        <dc:title>Rural Life in Victorian England</dc:title>
+        <dc:creator>G. E. Mingay</dc:creator>
+        <dc:language>en</dc:language>
+        <sys:created-at>1977-01-01T00:00:00</sys:created-at>
+        <sys:updated-at>2008-10-29T00:00:00</sys:updated-at>
+        <dc:type>text</dc:type>
+        <dc:publisher>Sutton</dc:publisher>
+        <dc:description>
+            During Victoria's reign the English countryside saw more rapid and far-reaching changes than had been
+            experienced in perhaps all the preceding centuries. These changes were the result of increasing
+            industrialization, the move toward urban settlement, greater reliance on imported foodstuffs and the
+            mass-production of fabric and clothing.
+        </dc:description>
+    </dc:metadata>
+
+    <dc:metadata>
+        <dc:identifier>9781139504447</dc:identifier>
+        <dc:title>A Concise History of Russia</dc:title>
+        <dc:creator>Paul Bushkovitch</dc:creator>
+        <dc:language>en</dc:language>
+        <sys:created-at>2011-12-05T00:00:00</sys:created-at>
+        <sys:updated-at>2014-05-14T00:00:00</sys:updated-at>
+        <dc:type>text</dc:type>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:description>
+            Accessible to students, tourists and general readers alike, this book provides a broad overview of Russian
+            history since the ninth century. Paul Bushkovitch emphasizes the enormous changes in the understanding
+            of Russian history resulting from the end of the Soviet Union in 1991.
+        </dc:description>
+    </dc:metadata>
+</dc:collection>
+
+
+
